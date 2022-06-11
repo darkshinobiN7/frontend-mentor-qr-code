@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://darkshinobin7.github.io/frontend-mentor-qr-code/]
+- Solution URL: [https://www.frontendmentor.io/solutions/grid-html-5-css-3-ai-3x7fKoz]
 - Live Site URL: [https://darkshinobin7.github.io/frontend-mentor-qr-code/]
 
 ### Built with
